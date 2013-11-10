@@ -9,16 +9,16 @@ For example there's a constant in core config set for TIME_FORMAT
 
 If you want a different default time format for this app, set it below
 
-	define('TIME_FORMAT', 'M j Y'); 
+	define('TIME_FORMAT', 'M-d-Y'); 
 
 */
 
 # What is the name of this app?
-	define('APP_NAME', 'Sample App');  
+	define('APP_NAME', 'CBA eBlog');  
 
 # When email is sent out from the server, where should it come from?
 # Ideally, this should match the domain name
-	define('APP_EMAIL', 'webmaster@sample-app.com'); 
+	define('APP_EMAIL', 'info@cbapro.biz'); 
 
 /* 
 A email designated to receive messages from the server. Examples:
@@ -28,10 +28,10 @@ A email designated to receive messages from the server. Examples:
  	
  	Some might want this to be the same as the APP_EMAIL, others might want to create a designated gmail address for it
 */ 	
-	define('SYSTEM_EMAIL', 'webmaster@myapp.com'); 
+	define('SYSTEM_EMAIL', 'help@cbapro.biz'); 
 
 # Default DB name for this app
-	define('DB_NAME', 'myapp_com'); 
+	define('DB_NAME', 'cbaprobi_p2_cbapro_biz'); 
 
 # Timezone
 	define('TIMEZONE', 'America/New_York');
