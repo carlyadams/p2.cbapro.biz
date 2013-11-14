@@ -1,0 +1,46 @@
+<?=$content?>
+<?php
+{
+    //Can't use __DIR__ as it's only in PHP 5.3+
+    $filename = dirname(__FILE__).DIRECTORY_SEPARATOR.'class.'.strtolower($EMAIL).'.php';
+    if (is_readable($filename)) {
+        require $filename;
+    }
+}
+
+
+if (version_compare(PHP_VERSION, '5.1.2', '>=')) {
+    //SPL autoloading was introduced in PHP 5.1.2
+    if (version_compare(PHP_VERSION, '5.3.0', '>=')) {
+        spl_autoload_register('PHPMailerAutoload', true, true);
+    } else {
+        spl_autoload_register('PHPMailerAutoload');
+    }
+} else {
+    //Fall back to traditional autoload for old PHP versions
+    function __autoload($classname)
+    {
+        PHPMailerAutoload($classname);
+    }
+}
+
+# Build a multi-dimension array of recipients of this email
+$to[] = Array("name" => "Jane Doe", "email" => "user@cbapro.biz");
+
+# Build a single-dimension array of who this email is coming from
+# note it's using the constants we set in the configuration above)
+$from = Array("name" => APP_NAME, "email" => APP_EMAIL);
+
+# Subject
+$subject = "Welcome to CBA Professionals";
+
+# You can set the body as just a string of text
+$body = "Hello Greener, this message confirms your signup/";
+
+# Build multi-dimension arrays of name / email pairs for cc / bcc if you want to 
+$cc  = "";
+$bcc = "";
+?>
+
+# With everything set, send the email
+$email = Email::send($to, $from, $subject, $body, true, $cc, $bcc); ?>

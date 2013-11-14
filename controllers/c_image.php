@@ -56,10 +56,6 @@ class Image {
         imagecopyresampled($thumb, $this->image, 0, 0, 0, 0, $width, $height, $this->width, $this->height);
         $this->image = $thumb;
     }
-
-} # eoc
-
-?>
 /*
 Instantiate an Image object using the "new" keyword
 Whatever params we use when instantiating are passed to __construct 
@@ -74,3 +70,7 @@ $imageObj->resize(200,200);
 
 # Display the resized image
 $imageObj->display();
+} # eoc
+
+?>
+
