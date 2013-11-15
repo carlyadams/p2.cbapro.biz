@@ -1,0 +1,187 @@
+2013-11-14 11:27:13 - INFO --> -------------------------- 
+2013-11-14 11:27:13 - INFO --> Controller/Method: users/p_signup 
+2013-11-14 11:27:13 - INFO --> OUTGOING EMAILS ARE DISABLED. THIS EMAIL WAS NOT SENT TO THE RECIPIENTS, ONLY help@cbapro.biz 
+2013-11-14 11:27:13 - INFO --> From: CBA eBlog (info@cbapro.biz) 
+2013-11-14 11:27:13 - INFO --> To: CBA eBlog (help@cbapro.biz),  
+2013-11-14 11:27:13 - INFO --> CC:  
+2013-11-14 11:27:13 - INFO --> BCC:  
+2013-11-14 11:27:13 - INFO --> Subject: CBA eBlog SQL Error 
+2013-11-14 11:27:13 - INFO --> Body: <h2>SQL Error</h2>Access denied for user 'root'@'localhost' (using password: NO)<h2>Query History</h2><h2>Routed Controller/Method:</h2> users/p_signup<br/><h2>Cookies</h2><pre>Array
+(
+    [PHPSESSID] => 94535e22d8db3c6b0af2e4d1950299ef
+)
+</pre><h2>POST</h2><pre>Array
+(
+    [first_name] => Winter
+   
+2013-11-14 11:33:55 - INFO --> -------------------------- 
+2013-11-14 11:33:55 - INFO --> Controller/Method: users/p_signup 
+2013-11-14 11:33:55 - INFO --> OUTGOING EMAILS ARE DISABLED. THIS EMAIL WAS NOT SENT TO THE RECIPIENTS, ONLY help@cbapro.biz 
+2013-11-14 11:33:55 - INFO --> From: CBA eBlog (info@cbapro.biz) 
+2013-11-14 11:33:55 - INFO --> To: CBA eBlog (help@cbapro.biz),  
+2013-11-14 11:33:55 - INFO --> CC:  
+2013-11-14 11:33:55 - INFO --> BCC:  
+2013-11-14 11:33:55 - INFO --> Subject: CBA eBlog SQL Error 
+2013-11-14 11:33:55 - INFO --> Body: <h2>SQL Error</h2>Access denied for user 'root'@'localhost' (using password: NO)<h2>Query History</h2><h2>Routed Controller/Method:</h2> users/p_signup<br/><h2>Cookies</h2><pre>Array
+(
+    [PHPSESSID] => 94535e22d8db3c6b0af2e4d1950299ef
+)
+</pre><h2>POST</h2><pre>Array
+(
+    [first_name] => Winter
+   
+2013-11-14 11:36:50 - INFO --> -------------------------- 
+2013-11-14 11:36:50 - INFO --> Controller/Method: users/p_signup 
+2013-11-14 11:36:50 - INFO --> OUTGOING EMAILS ARE DISABLED. THIS EMAIL WAS NOT SENT TO THE RECIPIENTS, ONLY help@cbapro.biz 
+2013-11-14 11:36:50 - INFO --> From: CBA eBlog (info@cbapro.biz) 
+2013-11-14 11:36:50 - INFO --> To: CBA eBlog (help@cbapro.biz),  
+2013-11-14 11:36:50 - INFO --> CC:  
+2013-11-14 11:36:50 - INFO --> BCC:  
+2013-11-14 11:36:50 - INFO --> Subject: CBA eBlog SQL Error 
+2013-11-14 11:36:50 - INFO --> Body: <h2>SQL Error</h2>Access denied for user 'root'@'localhost' (using password: NO)<h2>Query History</h2><h2>Routed Controller/Method:</h2> users/p_signup<br/><h2>Cookies</h2><pre>Array
+(
+    [PHPSESSID] => 94535e22d8db3c6b0af2e4d1950299ef
+)
+</pre><h2>POST</h2><pre>Array
+(
+    [first_name] => Winter
+   
+2013-11-14 11:37:53 - INFO --> -------------------------- 
+2013-11-14 11:37:53 - INFO --> Controller/Method: users/p_signup 
+2013-11-14 11:37:53 - INFO --> OUTGOING EMAILS ARE DISABLED. THIS EMAIL WAS NOT SENT TO THE RECIPIENTS, ONLY help@cbapro.biz 
+2013-11-14 11:37:53 - INFO --> From: CBA eBlog (info@cbapro.biz) 
+2013-11-14 11:37:53 - INFO --> To: CBA eBlog (help@cbapro.biz),  
+2013-11-14 11:37:53 - INFO --> CC:  
+2013-11-14 11:37:53 - INFO --> BCC:  
+2013-11-14 11:37:53 - INFO --> Subject: CBA eBlog SQL Error 
+2013-11-14 11:37:53 - INFO --> Body: <h2>SQL Error</h2>Access denied for user 'root'@'localhost' (using password: NO)<h2>Query History</h2><h2>Routed Controller/Method:</h2> users/p_signup<br/><h2>Cookies</h2><pre>Array
+(
+    [PHPSESSID] => 94535e22d8db3c6b0af2e4d1950299ef
+)
+</pre><h2>POST</h2><pre>Array
+(
+    [first_name] => Winter
+   
+2013-11-14 11:52:10 - INFO --> -------------------------- 
+2013-11-14 11:52:10 - INFO --> Controller/Method: users/p_signup 
+2013-11-14 11:52:10 - INFO --> OUTGOING EMAILS ARE DISABLED. THIS EMAIL WAS NOT SENT TO THE RECIPIENTS, ONLY help@cbapro.biz 
+2013-11-14 11:52:10 - INFO --> From: CBA eBlog (info@cbapro.biz) 
+2013-11-14 11:52:10 - INFO --> To: CBA eBlog (help@cbapro.biz),  
+2013-11-14 11:52:10 - INFO --> CC:  
+2013-11-14 11:52:10 - INFO --> BCC:  
+2013-11-14 11:52:10 - INFO --> Subject: CBA eBlog SQL Error 
+2013-11-14 11:52:10 - INFO --> Body: <h2>SQL Error</h2>Access denied for user 'root'@'localhost' (using password: NO)<h2>Query History</h2><h2>Routed Controller/Method:</h2> users/p_signup<br/><h2>Cookies</h2><pre>Array
+(
+    [PHPSESSID] => 94535e22d8db3c6b0af2e4d1950299ef
+)
+</pre><h2>POST</h2><pre>Array
+(
+    [first_name] => Winter
+   
+2013-11-14 11:52:31 - INFO --> -------------------------- 
+2013-11-14 11:52:31 - INFO --> Controller/Method: users/p_signup 
+2013-11-14 11:52:31 - INFO --> OUTGOING EMAILS ARE DISABLED. THIS EMAIL WAS NOT SENT TO THE RECIPIENTS, ONLY help@cbapro.biz 
+2013-11-14 11:52:31 - INFO --> From: CBA eBlog (info@cbapro.biz) 
+2013-11-14 11:52:31 - INFO --> To: CBA eBlog (help@cbapro.biz),  
+2013-11-14 11:52:31 - INFO --> CC:  
+2013-11-14 11:52:31 - INFO --> BCC:  
+2013-11-14 11:52:31 - INFO --> Subject: CBA eBlog SQL Error 
+2013-11-14 11:52:31 - INFO --> Body: <h2>SQL Error</h2>Access denied for user 'root'@'localhost' (using password: NO)<h2>Query History</h2><h2>Routed Controller/Method:</h2> users/p_signup<br/><h2>Cookies</h2><pre>Array
+(
+    [PHPSESSID] => 94535e22d8db3c6b0af2e4d1950299ef
+)
+</pre><h2>POST</h2><pre>Array
+(
+    [first_name] => Winter
+   
+2013-11-14 11:52:36 - INFO --> -------------------------- 
+2013-11-14 11:52:36 - INFO --> Controller/Method: users/p_signup 
+2013-11-14 11:52:36 - INFO --> OUTGOING EMAILS ARE DISABLED. THIS EMAIL WAS NOT SENT TO THE RECIPIENTS, ONLY help@cbapro.biz 
+2013-11-14 11:52:36 - INFO --> From: CBA eBlog (info@cbapro.biz) 
+2013-11-14 11:52:36 - INFO --> To: CBA eBlog (help@cbapro.biz),  
+2013-11-14 11:52:36 - INFO --> CC:  
+2013-11-14 11:52:36 - INFO --> BCC:  
+2013-11-14 11:52:36 - INFO --> Subject: CBA eBlog SQL Error 
+2013-11-14 11:52:36 - INFO --> Body: <h2>SQL Error</h2>Access denied for user 'root'@'localhost' (using password: NO)<h2>Query History</h2><h2>Routed Controller/Method:</h2> users/p_signup<br/><h2>Cookies</h2><pre>Array
+(
+    [PHPSESSID] => 94535e22d8db3c6b0af2e4d1950299ef
+)
+</pre><h2>POST</h2><pre>Array
+(
+    [first_name] => Winter
+   
+2013-11-14 11:54:21 - INFO --> -------------------------- 
+2013-11-14 11:54:21 - INFO --> Controller/Method: users/p_signup 
+2013-11-14 11:54:21 - INFO --> OUTGOING EMAILS ARE DISABLED. THIS EMAIL WAS NOT SENT TO THE RECIPIENTS, ONLY help@cbapro.biz 
+2013-11-14 11:54:21 - INFO --> From: CBA eBlog (info@cbapro.biz) 
+2013-11-14 11:54:21 - INFO --> To: CBA eBlog (help@cbapro.biz),  
+2013-11-14 11:54:21 - INFO --> CC:  
+2013-11-14 11:54:21 - INFO --> BCC:  
+2013-11-14 11:54:21 - INFO --> Subject: CBA eBlog SQL Error 
+2013-11-14 11:54:21 - INFO --> Body: <h2>SQL Error</h2>Unknown MySQL server host 'cbaprobi_P2' (1)<h2>Query History</h2><h2>Routed Controller/Method:</h2> users/p_signup<br/><h2>Cookies</h2><pre>Array
+(
+    [PHPSESSID] => 94535e22d8db3c6b0af2e4d1950299ef
+)
+</pre><h2>POST</h2><pre>Array
+(
+    [first_name] => Winter
+    [last_name] => Ad 
+2013-11-14 12:10:16 - INFO --> -------------------------- 
+2013-11-14 12:10:16 - INFO --> Controller/Method: users/p_signup 
+2013-11-14 12:10:16 - INFO --> From: CBA eBlog (info@cbapro.biz) 
+2013-11-14 12:10:16 - INFO --> To: CBA eBlog (help@cbapro.biz),  
+2013-11-14 12:10:16 - INFO --> CC:  
+2013-11-14 12:10:16 - INFO --> BCC:  
+2013-11-14 12:10:16 - INFO --> Subject: CBA eBlog SQL Error 
+2013-11-14 12:10:16 - INFO --> Body: <h2>SQL Error</h2>Access denied for user 'cbaprobi'@'localhost' (using password: YES)<h2>Query History</h2><h2>Routed Controller/Method:</h2> users/p_signup<br/><h2>Cookies</h2><pre>Array
+(
+    [PHPSESSID] => 94535e22d8db3c6b0af2e4d1950299ef
+)
+</pre><h2>POST</h2><pre>Array
+(
+    [first_name] => d
+   
+2013-11-14 15:41:06 - INFO --> -------------------------- 
+2013-11-14 15:41:06 - INFO --> Controller/Method: users/p_signup 
+2013-11-14 15:41:06 - INFO --> From: CBA eBlog (info@cbapro.biz) 
+2013-11-14 15:41:06 - INFO --> To: CBA eBlog (help@cbapro.biz),  
+2013-11-14 15:41:06 - INFO --> CC:  
+2013-11-14 15:41:06 - INFO --> BCC:  
+2013-11-14 15:41:06 - INFO --> Subject: CBA eBlog SQL Error 
+2013-11-14 15:41:06 - INFO --> Body: <h2>SQL Error</h2> INSERT INTO users SET first_name = '1', last_name = '2', email = '3', password = '5b69e764d498590aa91a36839167f0e7572a5c03', token = '5be3f74adc706b5e4f699192c9ac9ae6e94b3e8a', created = '1384461666', modified = '1384461666', timezone = 'America/New_York' Unknown column 'timezone' 
+2013-11-14 16:22:35 - INFO --> -------------------------- 
+2013-11-14 16:22:35 - INFO --> Controller/Method: users/p_signup 
+2013-11-14 16:22:35 - INFO --> OUTGOING EMAILS ARE DISABLED. THIS EMAIL WAS NOT SENT TO THE RECIPIENTS, ONLY help@cbapro.biz 
+2013-11-14 16:22:35 - INFO --> From: CBA eBlog (info@cbapro.biz) 
+2013-11-14 16:22:35 - INFO --> To: CBA eBlog (help@cbapro.biz),  
+2013-11-14 16:22:35 - INFO --> CC:  
+2013-11-14 16:22:35 - INFO --> BCC:  
+2013-11-14 16:22:35 - INFO --> Subject: CBA eBlog SQL Error 
+2013-11-14 16:22:35 - INFO --> Body: <h2>SQL Error</h2> INSERT INTO users SET first_name = 'Carly', last_name = 'Adams', email = 'carlybelleadams@yahoo.com', password = 'e1613061855dd428604590a0ae9fd334835a1025', token = '9e7bac19aafb8d71d95f512d175b40e74a8e7588', created = '1384464155', modified = '1384464155', timezone = 'America/New 
+2013-11-14 16:49:51 - INFO --> -------------------------- 
+2013-11-14 16:49:51 - INFO --> Controller/Method: users/p_signup 
+2013-11-14 16:49:51 - INFO --> OUTGOING EMAILS ARE DISABLED. THIS EMAIL WAS NOT SENT TO THE RECIPIENTS, ONLY help@cbapro.biz 
+2013-11-14 16:49:51 - INFO --> From: CBA eBlog (info@cbapro.biz) 
+2013-11-14 16:49:51 - INFO --> To: CBA eBlog (help@cbapro.biz),  
+2013-11-14 16:49:51 - INFO --> CC:  
+2013-11-14 16:49:51 - INFO --> BCC:  
+2013-11-14 16:49:51 - INFO --> Subject: CBA eBlog SQL Error 
+2013-11-14 16:49:51 - INFO --> Body: <h2>SQL Error</h2> INSERT INTO users SET first_name = 'Carly', last_name = 'Adams', email = 'carlybelleadams@yahoo.com', password = 'e1613061855dd428604590a0ae9fd334835a1025', token = '400e59f47b4a2b199c1cb9d0006ebff5dcabd378', created = '1384465791', modified = '1384465791', timezone = 'America/New 
+2013-11-14 17:01:04 - INFO --> -------------------------- 
+2013-11-14 17:01:04 - INFO --> Controller/Method: users/p_signup 
+2013-11-14 17:01:04 - INFO --> OUTGOING EMAILS ARE DISABLED. THIS EMAIL WAS NOT SENT TO THE RECIPIENTS, ONLY help@cbapro.biz 
+2013-11-14 17:01:04 - INFO --> From: CBA eBlog (info@cbapro.biz) 
+2013-11-14 17:01:04 - INFO --> To: CBA eBlog (help@cbapro.biz),  
+2013-11-14 17:01:04 - INFO --> CC:  
+2013-11-14 17:01:04 - INFO --> BCC:  
+2013-11-14 17:01:04 - INFO --> Subject: CBA eBlog SQL Error 
+2013-11-14 17:01:04 - INFO --> Body: <h2>SQL Error</h2> INSERT INTO users SET first_name = 'Carly', last_name = 'Adams', email = 'carlybelleadams@yahoo.com', password = 'e1613061855dd428604590a0ae9fd334835a1025', token = '2bb7c82376f1ccafd8b7d4916adecb0204120da6', created = '1384466464', modified = '1384466464', timezone = 'America/New 
+2013-11-14 17:30:47 - INFO --> -------------------------- 
+2013-11-14 17:30:47 - INFO --> Controller/Method: users/p_signup 
+2013-11-14 17:30:47 - INFO --> OUTGOING EMAILS ARE DISABLED. THIS EMAIL WAS NOT SENT TO THE RECIPIENTS, ONLY help@cbapro.biz 
+2013-11-14 17:30:47 - INFO --> From: CBA eBlog (info@cbapro.biz) 
+2013-11-14 17:30:47 - INFO --> To: CBA eBlog (help@cbapro.biz),  
+2013-11-14 17:30:47 - INFO --> CC:  
+2013-11-14 17:30:47 - INFO --> BCC:  
+2013-11-14 17:30:47 - INFO --> Subject: CBA eBlog SQL Error 
+2013-11-14 17:30:47 - INFO --> Body: <h2>SQL Error</h2> INSERT INTO users SET first_name = 'Carly', last_name = 'Mae', email = 'carlymrichardson@yahoo.com', password = 'bdfa17af457d2b00d09f7b0407102343453e60ac', token = '5048e15bcba8cf7cad1b9aa6949bff976a2a29cf', created = '1384468247', modified = '1384468247', timezone = 'America/New_ 

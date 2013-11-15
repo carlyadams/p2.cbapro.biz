@@ -20,20 +20,24 @@
             <li>Log in</li>
             <li>Log out</li>
             <li>Add posts ("GREENERS")</li>
-            <li>See a list of all users ("GREENERS")</li>
-            <li>Follow and unfollow other GREENERS</li>
-            <li>View stream of posts from the GREENERS they follow</li>
+            <li>See a list of all users ("GURUS")</li>
+            <li>Follow and unfollow other GURUS</li>
+            <li>View posts from Greeners</li>
         </ul>
 
 
         <h4>+1 features</h4>
         <ul>
-            <li>Email confirmation after successful sign-up</li>
+            <li>Change Password</li>
             <li>Delete a post</li>
         </ul>
      </div>
-
-
+<div>
+</div>
+Please visit: <br>
+<a href=http://www.cbaprofessionals.com>CBA Professionals</a> <br>
+<a href=http://www.twitter.com/cbaprofessional>CBA Twitter Account</a> <br> 
+<a href=http://www.facebook.com/cbaprofessionals>CBA Facebook Accout</a> <br> 
     </div>
 
  </div>

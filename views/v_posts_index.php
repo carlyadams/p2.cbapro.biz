@@ -11,8 +11,10 @@
 
 
         <div class="greenmachine span9">
-            <h2>Here's what your favorite <em>GREENERS</em> are saying:</h2>
-            <a href="/users/follow" class="btn pull-right btn-info">Follow more <em>GREENERS</em></a>
+            <h2>Want to see your profile?</h2>
+            <a href="/users/profile" class="btn pull-right btn-info">Your personal GURU <em>PROFILE</em></a>
+            <h2>Here's what your favorite <em>GURUS</em> are saying:</h2>
+            <a href="/users/follow" class="btn pull-right btn-info">Follow more <em>GURUS</em></a>
             <?php foreach($posts as $post): ?>
                 <div class="media span6">
                     <div class="media">

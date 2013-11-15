@@ -13,11 +13,7 @@ body {
 }
 </style>
 <body bgcolor="#0916F7" text="#0CF835" link="#0CF835" vlink="#0CF835" alink="#0CF835"><div class="6">
-	<div class="container">
-		<div class="nav1">
-						
-	<a class="nav2" href="/"><img src="/images/CBAL.png"></a>
-	</div>
+
 
 <script type="text/javascript">
     $(function () {
@@ -39,7 +35,7 @@ body {
 
 
 
-<?php foreach ($posts as $post): ?>
+
 <form method='POST' action='/posts/p_edit/<?php echo $post['id']; ?>              
     <p>
   <label><small>GREENER Title</small></label>
@@ -62,7 +58,7 @@ body {
                 
 <input name="GREENER" type="button" id="GREENER" title="Greener Editor" value="Edit Greener">
 </form>
-        <?php endforeach; ?>
+    
 
 
  

@@ -25,8 +25,8 @@
                     <?php if($user): ?>
                         <ul class="nav">
                             <!-- menu for logged in users -->
-                            <li><a href="/posts/following">GREENERS</a></li>
-                            <li><a href="/users/follow">GREENERS</a></li>
+                            <li><a href="/posts/following">GURUS You FOLLOW</a></li>
+                            <li><a href="/users/follow">FOLLOW more GURUS</a></li>
 
 
                             <?php if (!IN_PRODUCTION): ?>

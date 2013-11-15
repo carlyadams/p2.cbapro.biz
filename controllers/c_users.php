@@ -189,7 +189,7 @@ class users_controller extends base_controller {
 
 
         // Load all other users
-        $q = "SELECT * FROM users WHERE user_id != ".$this->user->user_id;
+        $q = "SELECT * FROM users";
         $users = DB::instance(DB_NAME)->select_rows($q);
 
 
@@ -230,6 +230,47 @@ class users_controller extends base_controller {
 
         Router::redirect('/users/follow');
     }
+
+public function change_password ($error = NULL){
+                $this->template->content = View::instance('v_users_change_password');
+                $this->template->title   = "Change Password";
+                # send error info to view
+                $this->template->content->error = $error;
+                # Render template
+                echo $this->template;
+        }
+        
+        public function p_change_password (){
+                # sanitize data from user
+                $_POST=DB::instance(DB_NAME)->sanitize($_POST);
+                # hash submitted password
+                $_POST['password'] = sha1(PASSWORD_SALT.$_POST['password']);                
+                $q = "SELECT password
+                                FROM users
+                                WHERE email = '".$this->user->email."'
+                                AND password = '".$_POST['password']."'";
+                $password = DB::instance(DB_NAME)->select_field($q);
+                if($password != $_POST['password']){
+                        Router::redirect('/users/change_password/error');
+                        }
+                else if($_POST['new_password'] != $_POST['confirmed_password']){
+                        Router::redirect('/users/change_password/error');
+                }
+                else{
+                        # hash submitted new password
+                        $_POST['new_password'] = sha1(PASSWORD_SALT.$_POST['new_password']);
+                        $data = Array('password' => $_POST['new_password']);
+                        DB::instance(DB_NAME)->update_row('users', $data, "WHERE user_id = '".$this->user->user_id."'");
+                        Router::redirect('/users/password_confirmation');
+                }
+        }
+        public function password_confirmation(){
+                $this->template->content = View::instance('v_users_password_confirmation');
+                $this->template->title = "Password Changed";
+                echo $this->template;
+                
+        }
+
 
 
 } # end of the class users_controller

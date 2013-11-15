@@ -19,4 +19,3 @@
     or <a class="login" href="/users/login">Log in</a> -->
 </form>
 
-
